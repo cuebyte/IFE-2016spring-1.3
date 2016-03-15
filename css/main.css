@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.box {
+  border: 1px solid #999; }
+
+#container {
+  padding: 20px;
+  background-color: #eee;
+  overflow: hidden; }
+
+#intro {
+  float: left;
+  background-color: #fff;
+  width: 200px; }
+  #intro img {
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin-right: 10px; }
+
+#content {
+  background-color: #fff;
+  margin-left: 210px;
+  margin-right: 130px; }
+
+#members {
+  float: right;
+  background-color: #fff;
+  width: 120px;
+  text-align: center; }
+  #members img {
+    width: 80px;
+    height: 80px; }
+
+/*# sourceMappingURL=main.css.map */
